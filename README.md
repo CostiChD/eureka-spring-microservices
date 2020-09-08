@@ -8,6 +8,10 @@
     
 
   <pre>
-  In order to see the microservices that are registered go to:          localhost:8080/
+  In order to see the microservices that are registered go to:          
+             
+             localhost:8080/
   
-  In order to access a microservice through Zuul gateway go to:         localhost:8081/(microservice-name)/(request-path)</pre>
+  In order to access a microservice through Zuul gateway go to:         
+           
+             localhost:8081/(microservice-name)/(request-path)</pre>
